@@ -1,6 +1,6 @@
 ![MasterHead](https://www.bestagencies.com/wp-content/uploads/2014/01/desk.gif)
 <h1 align="center">Hi 👋, I'm Sahil Rathod</h1>
-<h3 align="center">A passionate Full Stack Web developer from India</h3>
+<h3 align="center">A passionate Data Scientist from India</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahilrathod703&label=Profile%20views&color=0e75b6&style=flat" alt="sahilrathod703" /> </p>
 
