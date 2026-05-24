@@ -35,6 +35,10 @@
 - 🍥 &nbsp;Powered by chai, curiosity, and an endless anime backlog.
 - 📫 &nbsp;Reach me at **sahilrathod703@gmail.com**
 
+<div align="center">
+<img src="https://github.com/SahilRathod703/SahilRathod703/raw/main/codingfreak.gif" alt="coding" width="420">
+</div>
+
 ---
 
 ## 🛠️ Tech Stack
@@ -45,6 +49,7 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 **Data Science & Machine Learning**
 
@@ -53,16 +58,20 @@
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-189FDD?style=for-the-badge)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![SHAP](https://img.shields.io/badge/SHAP-7C3AED?style=for-the-badge)
+![SMOTE](https://img.shields.io/badge/SMOTE-38BDF8?style=for-the-badge)
 
-**Data Visualization**
+**Data Visualization & Analytics**
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
 ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 
 **Web & Databases**
 
@@ -74,27 +83,46 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-**Design & Tools**
+**Environments & Tools**
 
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Focus Areas
 
-<div align="center">
+<table>
+<tr>
+<td width="33%" valign="top">
 
-![Sahil's GitHub stats](https://github-readme-stats.vercel.app/api?username=SahilRathod703&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+**🤖 Machine Learning**
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SahilRathod703&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+Building and tuning predictive models — classification, regression, ensembles — with proper evaluation and explainability.
 
-</div>
+</td>
+<td width="33%" valign="top">
 
-> If a stats card shows blank, it's just the service loading slowly — refresh the page once.
+**🧠 Deep Learning**
+
+CNNs, transfer learning and computer vision — from data augmentation to a deployed model.
+
+</td>
+<td width="33%" valign="top">
+
+**⚙️ Data Pipelines**
+
+End-to-end workflows — ingestion, feature engineering, training, deployment and dashboards.
+
+</td>
+</tr>
+</table>
 
 ---
 
