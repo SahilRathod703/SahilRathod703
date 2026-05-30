@@ -133,7 +133,7 @@ End-to-end workflows — ingestion, feature engineering, training, deployment an
 | Project | What it does | Tech |
 |---|---|---|
 | **[AI Tender Monitor](https://github.com/SahilRathod703/AI-Tender-Monitor-Delivery)** | Auto-scrapes government tender portals for live opportunities | Python · Web Scraping · Automation |
-| **[Grape Leaf Disease Detection](https://github.com/SahilRathod703/Grape-Leaf-Disease-Detection)** | CNN diagnosing leaf disease at 92.5%+ accuracy · *Best Project 2024* 🏅 | TensorFlow · Keras · OpenCV |
+| **[Grape Leaf Disease Detection](https://github.com/SahilRathod703/Grape-Leaf-Disease-Detection)** | CNN diagnosing leaf disease at 96.5%+ accuracy · *Best Project 2024* 🏅 | TensorFlow · Keras · OpenCV |
 | **[Datamites Data Science Suite](https://github.com/SahilRathod703/Datamites_Project)** | Hands-on ML projects — cleaning, EDA, modelling & evaluation | Python · Pandas · scikit-learn |
 | **[Telecom Churn Prediction](https://github.com/SahilRathod703/Telecom-Churn-Prediction)** | End-to-end churn pipeline on live SQL data, deployed via Streamlit | SQL · XGBoost · SHAP |
 | **[Blood Donation Prediction](https://github.com/SahilRathod703/Blood-Donation-Prediction)** | 7 models benchmarked, top F1-score 0.82 | scikit-learn · SMOTE · GridSearchCV |
