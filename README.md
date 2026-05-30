@@ -30,7 +30,7 @@
 
 - 🔭 &nbsp;Computer Science graduate building **end-to-end ML pipelines** — and shipping them.
 - 🧪 &nbsp;Ex–**Data Science Consultant** at Rubixe — real client datasets, real deployments.
-- 🏆 &nbsp;Won **Best Project of the Year 2024** for a CNN hitting 92.5%+ accuracy.
+- 🏆 &nbsp;Won **Best Project of the Year 2024** for a CNN hitting 96.5%+ accuracy.
 - 🌱 &nbsp;Currently leveling up in **Deep Learning** and **MLOps**.
 - 🍥 &nbsp;Powered by chai, curiosity, and an endless anime backlog.
 - 📫 &nbsp;Reach me at **sahilrathod703@gmail.com**
