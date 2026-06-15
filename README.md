@@ -16,7 +16,7 @@
 
 <p>
 <img src="https://img.shields.io/badge/Open%20to-Data%20Science%20%26%20AI%20Roles-22C55E?style=for-the-badge&labelColor=0a0e27" alt="open to work" />
-<img src="https://img.shields.io/badge/Projects-10%2B%20Live%20on%20GitHub-7C3AED?style=for-the-badge&labelColor=0a0e27" alt="projects" />
+<img src="https://img.shields.io/badge/Projects-12%2B%20Live%20on%20GitHub-7C3AED?style=for-the-badge&labelColor=0a0e27" alt="projects" />
 <img src="https://komarev.com/ghpvc/?username=SahilRathod703&label=Profile%20Views&color=7C3AED&style=for-the-badge&labelColor=0a0e27" alt="views" />
 </p>
 
@@ -50,6 +50,7 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
@@ -66,6 +67,7 @@
 ![SMOTE](https://img.shields.io/badge/SMOTE-38BDF8?style=for-the-badge)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini%20AI-8E75B2?style=for-the-badge&logo=google&logoColor=white)
 
 **Visualization & Dashboards**
 
@@ -82,14 +84,20 @@
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 **Web & Databases**
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)
+![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -100,7 +108,7 @@
 
 ## 🚀 End-to-End ML Projects
 
-> Every project below has a complete pipeline: **EDA → Feature Engineering → Model Training → Evaluation → SHAP Explainability → Streamlit App → Docker → GitHub Actions CI/CD**
+> Every ML project below has a complete pipeline: **EDA → Feature Engineering → Model Training → Evaluation → SHAP Explainability → Streamlit App → Docker → GitHub Actions CI/CD**
 
 ---
 
@@ -142,10 +150,12 @@
 
 ---
 
-### 💻 Web & Design
+### 💻 Web, Mobile & Design
 
 | Project | What it does | Tech |
 |---|---|---|
+| **[🏟️ Mall of America — Sales Experience](https://github.com/SahilRathod703/moa-sales-experience)** 🎬 | Cinematic 7-chapter scroll-driven sales deck · Built as a Senior Frontend Engineer assessment · Live on Vercel | React · Vite · Three.js · GSAP · WebGL |
+| **[🌅 Aurora — AI Health Companion](https://github.com/SahilRathod703/Aurora-AI-Health-Companion)** 📱 | Voice-enabled AI health companion · Gemini 2.0 Flash · time-of-day theming · full speech→AI→TTS pipeline · Android APK | React Native · Expo SDK 53 · Supabase · Gemini AI · TypeScript |
 | **[🔺 Triangle](https://github.com/SahilRathod703/Triangle)** | Live website for a software company | Frontend · Web Dev |
 | **[🎨 Blogger Web Design UI/UX](https://github.com/SahilRathod703/Blogger-Web-Design-UIUX)** | Full UI/UX design suite — wireframes, prototypes, Figma | Figma · UI/UX |
 | **[🧴 NoCast.Ai Campaign](https://github.com/SahilRathod703/NoCast.Ai)** | Redesigned catalog for a Dubai skincare brand | Graphic Design · Branding |
@@ -221,3 +231,4 @@ current_focus = {
 <img src="https://capsule-render.vercel.app/api?type=waving&color=7C3AED&height=100&section=footer&text=&fontSize=0" width="100%"/>
 
 </div>
+
